@@ -1,0 +1,3 @@
+rootProject.name = 'ngampus'
+
+include ':app'
